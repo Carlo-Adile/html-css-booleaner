@@ -1,19 +1,56 @@
 #main_header {
-    font-size: 85px;
+    font-size: 72px;
     margin-bottom: -30px;
 }
 
 #second_header {
-    font-size: 40px;
+    font-size: 32px;
     color: #858585;
     margin-bottom: -20px;
 }
 
 #third_header {
-    font-size: 30px;
+    font-size: 22px;
     color: #858585;
 }
 
 .underlined {
     color: #34b1e7;
+}
+
+#photo_description {
+    font-size: 15px;
+    margin-top: 1px;
+}
+
+main {
+    font-size: 20px;
+}
+
+main ul {
+    padding: 20px;
+    margin: 0;
+}
+
+main span {
+    background-color: yellow;
+}
+
+#main_table {
+    border-collapse: collapse;
+    margin:0;
+}
+
+#main_table thead {
+    color: white;
+    background-color: #20a9e5;
+    text-align: left;
+}
+
+#main_table td {
+    min-width: 300px;
+    
+}
+#main_table tbody tr:nth-child(odd) {
+    background-color: #b1e5f2;
 }
