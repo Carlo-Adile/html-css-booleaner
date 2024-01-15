@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin-top: 0;
     padding: 0;
 }
 
@@ -16,7 +16,7 @@ body {
     width: 30%;
     height: 30%;
     margin-top: 120px;
-    margin-left: -140px;
+    margin-left: -135px;
 }
 
 #main_header {
@@ -79,4 +79,13 @@ main span {
 #footer_extras {
     font-size:25px;
     color:#858585;
+}
+
+#external_page p {
+    color:white;
+    font-size:22px;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px;
 }
