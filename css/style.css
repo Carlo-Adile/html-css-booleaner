@@ -1,0 +1,19 @@
+#main_header {
+    font-size: 85px;
+    margin-bottom: -30px;
+}
+
+#second_header {
+    font-size: 40px;
+    color: #858585;
+    margin-bottom: -20px;
+}
+
+#third_header {
+    font-size: 30px;
+    color: #858585;
+}
+
+.underlined {
+    color: #34b1e7;
+}
